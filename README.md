@@ -1,5 +1,5 @@
 ## simple-calculator
-A Python calculator that does simple math calculations. It supports adding, subtracting, multiplation, and dividing. I built this to practice user input, validation, error handling, using multiple functions, and loops.
+A Python calculator that does simple math calculations. It supports addition, subtraction, multiplication, and division. I built this to practice user input, validation, error handling, using multiple functions, and loops.
 
 ## features
 - Addition (+)
